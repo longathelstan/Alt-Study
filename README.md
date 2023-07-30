@@ -2,3 +2,5 @@
 
 # Alt-Study
 A Professional Study App for Student
+
+### Info: [Discord](https://discord.gg/gBYfDEnDq5)
